@@ -1,0 +1,9 @@
+* {
+  box-sizing: border-box;
+}
+.header {
+	width: 50%;
+	background-color: gray;
+	text-align: left;
+}
+
